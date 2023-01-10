@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6867e4be-a65d-4553-9567-971779bf2f33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/interfaces/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/interfaces/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/interfaces/GameBj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/interfaces/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/models/CardImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/models/DeckOfCardsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/four/models/GameBJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/PeopleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Person1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/task/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/task/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/task/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/task/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/task/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/task/Veterinar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/Main_OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/box_with_disks/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/box_with_disks/Disk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/box_with_disks/DiskAudio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two/box_with_disks/DiskVideo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JSJkGMuHPp12A8dVBq03JFvNff" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mongo/IdeaProjects/javaCourseNew&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="one" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.tree.Main">
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="two.box_with_disks.Box" />
+      <module name="oop_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="two.box_with_disks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="two.Main" />
+      <module name="oop_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.Methods" />
+      <module name="oop_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tree.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.Main" />
+      <module name="oop_basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tree.Main" />
+        <item itemvalue="Application.Box" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Methods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6867e4be-a65d-4553-9567-971779bf2f33" name="Changes" comment="" />
+      <created>1672065695333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672065695333</updated>
+      <workItem from="1672065698331" duration="6736000" />
+      <workItem from="1672248332730" duration="2608000" />
+      <workItem from="1672768521502" duration="1332000" />
+      <workItem from="1673005843362" duration="4671000" />
+      <workItem from="1673180456809" duration="2909000" />
+      <workItem from="1673279746927" duration="6325000" />
+      <workItem from="1673368025808" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
